@@ -29,7 +29,6 @@ public class CheckCoupon_main {
 			}
 		}
 		
-		
 		return isValid;
 	}
 }
